@@ -10,8 +10,8 @@
 
 ## Testing Documentation:
  - [Checklists](https://github.com/AndreyDmitriev35/Checklists.git)
- - [Test-Cases](https://github.com/AndreyDmitriev35/Test-Cases.git)
- - [Bug-Reports](https://github.com/AndreyDmitriev35/Bug-Reports.git)
+ - [Test Cases](https://github.com/AndreyDmitriev35/Test-Cases.git)
+ - [Bug Reports](https://github.com/AndreyDmitriev35/Bug-Reports.git)
  - [SQL Queries](https://github.com/AndreyDmitriev35/SQL-Queries.git)
  - [Postman Collections](https://github.com/AndreyDmitriev35/Postman-Collections.git)
 
