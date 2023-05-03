@@ -9,11 +9,11 @@
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=GoogleChrome&logoColor=2674f2)
 
 ## Testing Documentation:
- - [Checklists]
- - [Test-Suites and Test-Cases]
- - [Bug-Reports]
- - [SQL Queries]
- - [Postman Collections]
+ - [Checklists](https://github.com/AndreyDmitriev35/Checklists.git)
+ - [Test-Cases](https://github.com/AndreyDmitriev35/Test-Cases.git)
+ - [Bug-Reports](https://github.com/AndreyDmitriev35/Bug-Reports.git)
+ - [SQL Queries](https://github.com/AndreyDmitriev35/SQL-Queries.git)
+ - [Postman Collections](https://github.com/AndreyDmitriev35/Postman-Collections.git)
 
 ## Contacts
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dmitriev01)
