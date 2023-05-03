@@ -1,9 +1,9 @@
 ![MasterHead](banner.png)
 
-I am a beginner QA Engineer
+##I am a beginner QA Engineer
 
-Languages and Tools:
+##Languages and Tools:
 
-Testing Documents
+##Testing Documents
 
-Follow Me
+##Follow Me
