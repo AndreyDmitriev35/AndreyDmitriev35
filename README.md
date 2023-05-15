@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=GoogleChrome&logoColor=2674f2)
 ![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=red)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-090909?style=for-the-badge&logo=github&logoColor=white)
 
 ## Testing Documentation:
  - [Checklists](https://github.com/AndreyDmitriev35/Checklists.git)
