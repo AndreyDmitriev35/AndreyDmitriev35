@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 
-# I am a beginner QA Engineer
+# Hello, I am a beginner QA Engineer
 
 ## Language and Tools:
 ![Jira](https://img.shields.io/badge/jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
