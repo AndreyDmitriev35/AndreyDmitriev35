@@ -7,7 +7,7 @@
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=GoogleChrome&logoColor=2674f2)
-![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=red)
 
 ## Testing Documentation:
  - [Checklists](https://github.com/AndreyDmitriev35/Checklists.git)
