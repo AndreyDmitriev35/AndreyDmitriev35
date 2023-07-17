@@ -46,5 +46,8 @@ left_index = binary_search(number_list, random_number, 0, len(number_list))-1
 right_index = binary_search(number_list, random_number, 0, len(number_list))
 
 print("Отсортированный список:", number_list)
-print("Индекс меньше введенного числа:", left_index)
-print("Индекс больше введенного числа или равен ему:", right_index)
+if left_index < 0:
+    print("Нет элемента, который меньше, чем введеное пользователем число.")
+else:
+    print("Индекс элемента, который меньше введенного пользователем числа:", left_index)
+print("Индекс элемента, который больше введенного пользователем числа или равен ему:", right_index)
