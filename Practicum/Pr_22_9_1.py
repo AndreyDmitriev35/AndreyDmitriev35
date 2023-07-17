@@ -11,9 +11,6 @@ while not random_number:
         if random_number > max(number_list) or random_number < min(number_list):
             print("Введенное число находится за рамками списка")
             random_number = None
-        # elif random_number not in number_list:
-        #     print("Введенное число не входит в список чисел")
-        #     random_number = None
     except ValueError:
         print("Вы ввели неверные значения")
 
