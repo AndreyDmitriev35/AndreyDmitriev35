@@ -4,6 +4,7 @@ from extensions import APIException, CryptoConverter
 
 bot = telebot.TeleBot(token)
 
+
 @bot.message_handler(commands=['start','help'])
 def helper(message: telebot.types.Message):
     text = 'Чтобы начать работу, введите команду боту в следующем формате, через пробел:\n\
